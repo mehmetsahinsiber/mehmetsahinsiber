@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello! My name is Mehmet. As a student of Information Security Technology, I am dedicated to constantly expanding my knowledge and nurturing my passion for this field. Technology and security are not merely academic interests for me; they are personal passions and subjects of curiosity.
 
-Throughout my university education, I've worked with various programming languages. I've developed projects using languages like Python, Java, C++, allowing me to refine my skills in algorithmic thinking.
+Throughout my university education, I've worked with various programming languages. I've developed projects using languages like Python, Java, C# allowing me to refine my skills in algorithmic thinking.
 
 My interest in web development continues to grow. I've learned to create interactive and user-friendly web interfaces using HTML, CSS, and JavaScript. Additionally, I've gained the ability to develop modern and responsive designs using frameworks like Bootstrap.
 

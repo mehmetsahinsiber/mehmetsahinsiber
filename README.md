@@ -1,5 +1,17 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>🌱 I’m currently learning<br>💬 Ask me about<br>
+Hello! I am a student studying Information Security Technology at Giresun University. My name is Mehmet, and I'm continually advancing my knowledge in cybersecurity and related fields.
+
+Computer science and cybersecurity are not just academic pursuits for me; they are passions that drive me to explore, learn, and solve complex challenges. Throughout my academic journey, I've engaged with various programming languages, utilizing them to tackle real-world problems. I've developed projects using Python, Java, C++, C#, HTML, CSS, and JavaScript, honing my skills in algorithmic thinking and problem-solving.
+
+Moreover, my interest extends to web development. I've crafted interactive and user-friendly web interfaces using HTML, CSS, and JavaScript, while also mastering modern, responsive designs with frameworks like Bootstrap.
+
+In the realm of cybersecurity, I'm deeply fascinated by the significance of security and privacy in our digital world. I've conducted research in network security, cryptography, and vulnerabilities, aiming to comprehend core principles and techniques. Exploring the concept of ethical hacking has also been part of my efforts to deepen my grasp of information security.
+
+My commitment to continuous improvement drives me to leverage online courses, literature, and practical applications to augment my knowledge. Actively participating in diverse events and conferences enables me to stay updated on industry innovations and learn from seasoned professionals.
+
+My career aspiration is to specialize in cybersecurity, contributing effective solutions to fortify digital security. I firmly believe that by enhancing my knowledge and practical experience, I can devise more robust solutions for future projects and confront cybersecurity challenges.
+
+My journey of learning in information security technology continues, and each day, I'm invigorated by the prospect of acquiring new knowledge. I'm steadfast in my dedication to expanding my knowledge base and acquiring new skills in this evolving field.<br>
 
 
 ## 🌐 Socials:
